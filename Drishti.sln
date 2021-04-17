@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.29123.89
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Drishti", "opncv_learn\opncv_learn.vcxproj", "{26E70F0F-C76E-433E-935B-8B2128E8FED9}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "opencv_video_processing_lering", "opencv_video_processing_lering\opencv_video_processing_lering.vcxproj", "{EE3AFDCD-0AE4-4AE8-A14D-19639E89B36D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -15,6 +17,10 @@ Global
 		{26E70F0F-C76E-433E-935B-8B2128E8FED9}.Debug|x64.Build.0 = Debug|x64
 		{26E70F0F-C76E-433E-935B-8B2128E8FED9}.Release|x64.ActiveCfg = Release|x64
 		{26E70F0F-C76E-433E-935B-8B2128E8FED9}.Release|x64.Build.0 = Release|x64
+		{EE3AFDCD-0AE4-4AE8-A14D-19639E89B36D}.Debug|x64.ActiveCfg = Debug|x64
+		{EE3AFDCD-0AE4-4AE8-A14D-19639E89B36D}.Debug|x64.Build.0 = Debug|x64
+		{EE3AFDCD-0AE4-4AE8-A14D-19639E89B36D}.Release|x64.ActiveCfg = Release|x64
+		{EE3AFDCD-0AE4-4AE8-A14D-19639E89B36D}.Release|x64.Build.0 = Release|x64
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
