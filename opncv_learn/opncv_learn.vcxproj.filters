@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="src\split_merg_image.cpp" />
+    <ClCompile Include="basic_opencv.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="src\Core.h" />
+    <ClInclude Include="src\ImageProcess.h" />
+    <ClInclude Include="src\algo.h" />
+    <ClInclude Include="src\Mouse.h" />
+    <ClInclude Include="src\VideoProceser.h" />
+    <ClInclude Include="Drishti.h" />
+  </ItemGroup>
+</Project>
